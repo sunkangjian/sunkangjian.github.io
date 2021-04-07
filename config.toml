@@ -1,0 +1,4 @@
+baseURL = "http://www.sunorz.com/"
+languageCode = "zh-cn"
+title = "琳千秋的网络日志"
+theme = "hugo-theme-minos"
