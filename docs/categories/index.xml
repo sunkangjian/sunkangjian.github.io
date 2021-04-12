@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 琳千秋的网络日志</title>
-    <link>http://www.sunorz.com/categories/</link>
+    <link>https://www.sunorz.com/categories/</link>
     <description>Recent content in Categories on 琳千秋的网络日志</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://www.sunorz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://www.sunorz.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
